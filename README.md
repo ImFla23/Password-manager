@@ -5,16 +5,15 @@ I started programming in November, beginning with C++, but I wanted to challenge
 ## 🚀 About the Project
 This project is a **password manager** that I personally find quite useful! Developing it was a great learning experience, and I’m excited to share it with the community.
 
-To run this project, simply use the **.exe file** located in the `password_manager` directory.
-
-## **Download the repository** or clone it using:
-   ```bash
-   git clone https://github.com/ImFla23/Password-manager.git
-
 ## ✨ Features
 - 🔒 Securely stores and manages passwords  
 - 🖥️ Simple and intuitive interface  
 - 🐍 Fully built with Python  
 
 
+To run this project, simply use the **.exe file** located in the `password_manager` directory.
+
+## **Download the repository** or clone it using:
+   ```bash
+   git clone https://github.com/ImFla23/Password-manager.git
 
