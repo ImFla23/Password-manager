@@ -1,0 +1,13 @@
+# Cartelle e file temporanei di Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output di PyInstaller
+build/
+dist/
+*.spec
+
+# File di sistema inutili
+.DS_Store
+Thumbs.db
