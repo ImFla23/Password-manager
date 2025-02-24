@@ -1,6 +1,6 @@
 # 🔑 Password Manager
 
-I started programming in November, beginning with C++, but I wanted to challenge myself by building a complete application using only Python. While tools like Electron might be better suited for animations and graphical interfaces, I chose to push my limits and see what I could accomplish with Python alone. Any constructive feedback is highly appreciated! Let me know what you think.
+I started programming in November 2024, beginning with C++, but I wanted to challenge myself by building a complete application using only Python. While tools like Electron might be better suited for animations and graphical interfaces, I chose to push my limits and see what I could accomplish with Python alone. Any constructive feedback is highly appreciated! Let me know what you think.
 
 ## 🚀 About the Project
 This project is a **password manager** that I personally find quite useful! Developing it was a great learning experience, and I’m excited to share it with the community.
